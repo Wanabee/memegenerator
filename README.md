@@ -1,0 +1,2 @@
+# wanabot
+Slack bot

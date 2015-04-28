@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/WanaBot/WanaBot/obj/Debug
-/WanaBot/WanaBot/bin/Debug
-WanaBot/packages/*
+/MemeGenerator/MemeGenerator/obj/Debug
+/MemeGenerator/MemeGenerator/bin/Debug
+MemeGenerator/packages/*

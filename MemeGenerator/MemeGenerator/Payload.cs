@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace WanaBot
+namespace MemeGenerator
 {
     public class Payload
     {

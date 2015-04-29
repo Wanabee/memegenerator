@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/MemeGenerator/MemeGenerator/obj/Debug
-/MemeGenerator/MemeGenerator/bin/Debug
+/MemeGenerator/MemeGenerator/obj/*
+/MemeGenerator/MemeGenerator/bin/*
 MemeGenerator/packages/*
